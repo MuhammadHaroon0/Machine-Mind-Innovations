@@ -13,12 +13,12 @@ const getUserImage=catchAsync(async(req,res,next)=>{
         return next(new AppError('Doc not found matching this id!',404))
     }
     
-    const imgpath=path.join(__dirname,"..","/public/users/"+doc.image)
+    const imgpath=path.join(__dirname,"..","/public/"+doc.image)
    res.sendFile(imgpath)
 })
 
 const getServiceImage=catchAsync(async(req,res,next)=>{
-    const imgpath=path.join(__dirname,"..","public/services/"+req.params.name)
+    const imgpath=path.join(__dirname,"..","public/"+req.params.name)
     res.sendFile(imgpath)
 })
 
