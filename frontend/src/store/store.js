@@ -32,6 +32,7 @@ console.log(process.env.REACT_APP_BACKEND_URL);
         localStorage.setItem('role',response.data.data.role)
         await useStore.getState().getUserImage(response.data.data.id)
     } catch (error) {
+      console.log(error);
       throw error;
     }
   },

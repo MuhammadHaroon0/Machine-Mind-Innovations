@@ -26,7 +26,7 @@ exports.resizeServiceImage = catchAsync(async (req, res, next) => {
       .resize(2000, 1333)
         .toFormat("jpeg")
         .jpeg({ quality: 90 })
-        .toFile(`public/${req.file.fileName}`);
+        .toFile(`public/images/services/${req.file.fileName}`);
   } catch (error) {
     console.log(error);
   }

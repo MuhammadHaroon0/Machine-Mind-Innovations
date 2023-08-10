@@ -105,7 +105,7 @@ const Dashboard = () => {
         {role === "admin" && (
           <button
             onClick={() => handleChangePage("AddServices")}
-            className="p-2 md:p-3  border-1 border-slate hover:bg-[#2e318f] active:bg-[#2e318f]  hover:text-white font-semibold text-xl"
+            className="p-2 md:p-3  border-1 border-slate hover:bg-[#2e318f] active:bg-[#2e318f]  hover:text-white font-semibold text-xl h-full"
           >
             Add Services
           </button>
@@ -113,7 +113,7 @@ const Dashboard = () => {
         {role === "admin" && (
           <button
             onClick={() => handleChangePage("AddProducts")}
-            className="p-2 md:p-3  border-y border-r border-slate hover:bg-[#2e318f] hover:text-white font-semibold text-xl"
+            className="p-2 md:p-3  border-y border-r border-slate hover:bg-[#2e318f] hover:text-white font-semibold text-xl h-full"
           >
             Add Products
           </button>

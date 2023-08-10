@@ -11,7 +11,7 @@ process.on('uncaughtException',(err)=>{
 })
 
 ///////////////////////////Files
-const app=require('./index')
+const app=require('./app')
 
 if(process.env.NODE_ENV==='development')
 {

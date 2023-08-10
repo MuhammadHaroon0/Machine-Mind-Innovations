@@ -1,7 +1,6 @@
 ////////////////////////////Packages
 const express=require('express')
 const app=express();
-const mongoose=require('mongoose')
 
 const path=require('path')
 require('dotenv').config({
@@ -19,7 +18,7 @@ const connectDB=require('./db')
 connectDB()
 ///////////////////////////Files
 const AppError = require('./utils/AppError');
-// app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(cors({
     origin: process.env.FRONTEND_URL, // Replace with your frontend's URL
@@ -74,9 +73,7 @@ app.use('/api/services',serviceRouter);
 app.use('/api/products',productRouter);
 app.use('/api/testimonials',testimonialRouter);
 app.use('/api/image',imageGetter);
-app.get('/',(req,res,next)=>{
-    res.send("Hello World")
-})
+
 //PREVENTING REACHING UNDEFINED ROUTES
 app.all('*',(req,res,next)=>{
     next(new AppError(`Couldn't find the ${req.originalUrl} on this server!`,404))
