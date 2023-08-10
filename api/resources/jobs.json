@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Full Stack Developer",
+      "description": "We are looking for a talented full stack developer to join our team.",
+      "responsibilities": [
+        "Developing and implementing software solutions",
+        "Writing well-designed, testable, and efficient code",
+        "Working with cross-functional teams to deliver high-quality software"
+      ],
+      "requirements": [
+        "Proven experience as a full stack developer",
+        "Strong knowledge of front-end and back-end technologies",
+        "Familiarity with software development methodologies"
+      ]
+    },
+    {
+      "name": "UI/UX Designer",
+      "description": "We are hiring a creative UI/UX designer to join our design team.",
+      "responsibilities": [
+        "Creating user-friendly and visually appealing designs",
+        "Conducting user research and usability testing",
+        "Collaborating with product managers and developers"
+      ],
+      "requirements": [
+        "Proven experience in UI/UX design",
+        "Proficiency in design tools like Adobe XD, Sketch, or Figma",
+        "Understanding of user-centered design principles"
+      ]
+    },
+    {
+      "name": "Project Manager",
+      "description": "We are seeking an experienced project manager to oversee software development projects.",
+      "responsibilities": [
+        "Planning and organizing project timelines and resources",
+        "Monitoring project progress and resolving issues",
+        "Communicating with stakeholders and clients"
+      ],
+      "requirements": [
+        "Proven experience as a project manager in the IT industry",
+        "Strong leadership and communication skills",
+        "Knowledge of project management tools"
+      ]
+    },
+    {
+      "name": "Software Tester",
+      "description": "We are hiring a meticulous software tester to ensure the quality of our software products.",
+      "responsibilities": [
+        "Creating and executing test plans and test cases",
+        "Identifying and reporting software defects",
+        "Collaborating with development teams to resolve issues"
+      ],
+      "requirements": [
+        "Proven experience in software testing and quality assurance",
+        "Familiarity with testing methodologies and tools",
+        "Attention to detail and excellent problem-solving skills"
+      ]
+    },
+    {
+      "name": "Database Administrator",
+      "description": "We are looking for a skilled database administrator to manage our databases.",
+      "responsibilities": [
+        "Installing, configuring, and maintaining database systems",
+        "Ensuring data security and backups",
+        "Optimizing database performance"
+      ],
+      "requirements": [
+        "Proven experience as a database administrator",
+        "Proficiency in database management systems like MongoDB or MySQL",
+        "Knowledge of data backup and recovery procedures"
+      ]
+    },
+    {
+      "name": "Front-end Developer",
+      "description": "We are seeking a talented front-end developer to build user interfaces.",
+      "responsibilities": [
+        "Developing user interfaces for web applications",
+        "Collaborating with design teams to implement UI designs",
+        "Optimizing applications for maximum speed and scalability"
+      ],
+      "requirements": [
+        "Proven experience in front-end development",
+        "Strong proficiency in HTML, CSS, and JavaScript",
+        "Experience with front-end frameworks like React or Vue.js"
+      ]
+    }
+  ]
+  

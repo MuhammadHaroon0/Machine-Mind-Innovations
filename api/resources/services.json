@@ -1,0 +1,203 @@
+[
+    {
+      "name": "Web Development",
+      "description": "Custom web development solutions tailored to your business needs.",
+      "image": "https://example.com/web_development.jpg",
+      "features": [
+        {
+          "name": "Responsive Design",
+          "description": "Design websites that adapt to different screen sizes and devices."
+        },
+        {
+          "name": "Front-end Development",
+          "description": "Implementing user interfaces using HTML, CSS, and JavaScript."
+        },
+        {
+          "name": "Back-end Development",
+          "description": "Building server-side logic and databases for web applications."
+        }
+      ],
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Node.js", "React.js", "MongoDB"]
+    },
+    {
+      "name": "Mobile App Development",
+      "description": "High-performance mobile apps for iOS and Android platforms.",
+      "image": "https://example.com/mobile_app_development.jpg",
+      "features": [
+        {
+          "name": "Native App Development",
+          "description": "Building apps natively for iOS and Android platforms."
+        },
+        {
+          "name": "Cross-Platform Development",
+          "description": "Developing apps that work on multiple platforms using frameworks like React Native."
+        },
+        {
+          "name": "User Experience Design",
+          "description": "Creating intuitive and user-friendly mobile app interfaces."
+        }
+      ],
+      "technologies": ["Swift", "Kotlin", "React Native", "Flutter"]
+    },
+    {
+      "name": "E-commerce Solutions",
+      "description": "End-to-end e-commerce solutions to help you sell online.",
+      "image": "https://example.com/ecommerce_solutions.jpg",
+      "features": [
+        {
+          "name": "Online Store Setup",
+          "description": "Creating and configuring online stores for selling products."
+        },
+        {
+          "name": "Payment Gateway Integration",
+          "description": "Integrating secure payment gateways for smooth transactions."
+        },
+        {
+          "name": "Inventory Management",
+          "description": "Managing and tracking product inventory efficiently."
+        }
+      ],
+      "technologies": ["WooCommerce", "Shopify", "Magento"]
+    },
+    {
+      "name": "Custom Software Development",
+      "description": "Bespoke software solutions to optimize your business processes.",
+      "image": "https://example.com/custom_software.jpg",
+      "features": [
+        {
+          "name": "Business Analysis",
+          "description": "Understanding business requirements and planning software solutions."
+        },
+        {
+          "name": "User Training & Support",
+          "description": "Providing training and ongoing support to end-users."
+        },
+        {
+          "name": "Scalable Architecture",
+          "description": "Designing software with the ability to handle growing demands."
+        }
+      ],
+      "technologies": ["Java", "C#", "Python", "MySQL", "PostgreSQL"]
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "Intuitive and visually stunning user interface and user experience designs.",
+      "image": "https://example.com/ui_ux_design.jpg",
+      "features": [
+        {
+          "name": "Wireframing",
+          "description": "Creating basic layouts and structures of web or app interfaces."
+        },
+        {
+          "name": "Prototyping",
+          "description": "Building interactive prototypes to visualize design concepts."
+        },
+        {
+          "name": "Usability Testing",
+          "description": "Evaluating the usability of designs through testing with users."
+        }
+      ],
+      "technologies": ["Adobe XD", "Sketch", "InVision"]
+    },
+    {
+      "name": "Digital Marketing",
+      "description": "Strategies to boost your online presence and drive targeted traffic.",
+      "image": "https://example.com/digital_marketing.jpg",
+      "features": [
+        {
+          "name": "Search Engine Optimization",
+          "description": "Improving website visibility and search engine rankings."
+        },
+        {
+          "name": "Social Media Marketing",
+          "description": "Promoting products and services through social media platforms."
+        },
+        {
+          "name": "Email Campaigns",
+          "description": "Running email marketing campaigns to engage with customers."
+        }
+      ],
+      "technologies": []
+    },
+    {
+      "name": "Cloud Solutions",
+      "description": "Secure and scalable cloud-based solutions for your business.",
+      "image": "https://example.com/cloud_solutions.jpg",
+      "features": [
+        {
+          "name": "Cloud Migration",
+          "description": "Moving applications and data to cloud-based infrastructure."
+        },
+        {
+          "name": "Data Backup & Recovery",
+          "description": "Implementing reliable data backup and recovery mechanisms."
+        },
+        {
+          "name": "Performance Monitoring",
+          "description": "Monitoring application performance on the cloud for optimization."
+        }
+      ],
+      "technologies": ["Amazon Web Services (AWS)", "Microsoft Azure", "Google Cloud Platform (GCP)"]
+    },
+    {
+      "name": "Blockchain Development",
+      "description": "Leveraging blockchain technology for transparent and secure applications.",
+      "image": "https://example.com/blockchain_development.jpg",
+      "features": [
+        {
+          "name": "Smart Contracts",
+          "description": "Creating self-executing contracts for trustless transactions."
+        },
+        {
+          "name": "Decentralized Applications (dApps)",
+          "description": "Building applications that run on a decentralized network."
+        },
+        {
+          "name": "Tokenization",
+          "description": "Tokenizing assets to represent value on the blockchain."
+        }
+      ],
+      "technologies": ["Ethereum", "Solidity", "Hyperledger"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "description": "Harnessing AI to revolutionize your business operations.",
+      "image": "https://example.com/ai_solutions.jpg",
+      "features": [
+        {
+          "name": "Machine Learning",
+          "description": "Training algorithms to learn from data and make predictions."
+        },
+        {
+          "name": "Natural Language Processing (NLP)",
+          "description": "Understanding and processing human language data."
+        },
+        {
+          "name": "Predictive Analytics",
+          "description": "Analyzing data to make predictions about future outcomes."
+        }
+      ],
+      "technologies": ["Python", "TensorFlow", "PyTorch"]
+    },
+    {
+      "name": "IT Consulting",
+      "description": "Expert guidance to align technology with your business goals.",
+      "image": "https://example.com/it_consulting.jpg",
+      "features": [
+        {
+          "name": "Technology Assessment",
+          "description": "Assessing existing technology to identify opportunities and risks."
+        },
+        {
+          "name": "Digital Transformation Strategy",
+          "description": "Planning and implementing technology-driven transformation."
+        },
+        {
+          "name": "Security Audit",
+          "description": "Evaluating and enhancing the security of IT infrastructure."
+        }
+      ],
+      "technologies": []
+    }
+  ]
+  
